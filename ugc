@@ -236,9 +236,9 @@ local scripts = {
     {"Пятёрочка: АмНямания 2", "https://pastefy.app/9i5OcfGS/raw"},
     {"Afk For Free Ugc", "https://pastefy.app/TwwxnrS8/raw"},
     {"Elf Up", "https://pastefy.app/tejLsbZv/raw"},
-    {"Corsair [Easter Event]", "https://raw.githubusercontent.com/zscript084-lgtm/ghaggshasas/refs/heads/main/owyqwyqiuwq"},
+    {"Corsair", "https://raw.githubusercontent.com/zscript084-lgtm/ghaggshasas/refs/heads/main/owyqwyqiuwq"},
     {"The Shegg Hunt 2026", "https://raw.githubusercontent.com/zscript084-lgtm/ghaggshasas/refs/heads/main/qwqwqw"},
-    {"SharkBite 2 [Easter Event]", "https://pastebin.com/raw/PScRvTP6"},
+    {"SharkBite 2", "https://pastebin.com/raw/PScRvTP6"},
     {"Pop Box", "https://pastebin.com/raw/5zhJNpUH"},
     {"99 Nights In The Forest", "https://pastefy.app/WktFjGel/raw"},
     {"Cursed Cleaners", "https://pastefy.app/Mvdn3hqB/raw"},
@@ -287,6 +287,7 @@ local scripts = {
     {"Get A Ugc Emote", "https://pastefy.app/VKVxva4n/raw"},
     {"Npc Or Die", "https://pastefy.app/Am2Zai0C/raw"},
     {"Nut Collector Incremental", "https://pastefy.app/CFrJYI0J/raw"},
+    {"Click", "https://pastefy.app/FmtEiLWA/raw"},
 }
 
 for _, data in ipairs(scripts) do
