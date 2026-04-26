@@ -286,6 +286,7 @@ local scripts = {
     {"Blue Building Detectives", "https://pastefy.app/khWH4cGe/raw"},
     {"Get A Ugc Emote", "https://pastefy.app/VKVxva4n/raw"},
     {"Npc Or Die", "https://pastefy.app/Am2Zai0C/raw"},
+    {"Nut Collector Incremental", "https://pastefy.app/o8tPm3XI/raw"},
 }
 
 for _, data in ipairs(scripts) do
