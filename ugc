@@ -233,6 +233,7 @@ UIS.InputChanged:Connect(function(input)
 end)
 
 local scripts = {
+    {"Gogo Climb", "https://pastefy.app/un4d5Ess/raw"},
     {"Пятёрочка: АмНямания 2", "https://pastefy.app/9i5OcfGS/raw"},
     {"Afk For Free Ugc", "https://pastefy.app/TwwxnrS8/raw"},
     {"Elf Up", "https://pastefy.app/tejLsbZv/raw"},
