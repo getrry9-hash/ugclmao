@@ -291,6 +291,7 @@ local scripts = {
     {"Click", "https://pastefy.app/FmtEiLWA/raw"},
     {"Dead Rails", "https://pastefy.app/HWvtjaF1/raw"},
     {"Evade", "https://pastefy.app/r57IjJKi/raw"},
+    {"Mt Gandang Dewata", "https://pastefy.app/DWRf8tbc/raw"},  
 }
 
 for _, data in ipairs(scripts) do
